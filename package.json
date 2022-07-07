@@ -22,7 +22,7 @@
     "core-js": "^2.5.4",
     "lodash": "^4.17.15",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ngx-cookie-service": "^2.2.0",
     "rxjs": "~6.3.3",
     "socket.io-client": "^2.3.0",
